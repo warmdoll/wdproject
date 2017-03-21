@@ -1,0 +1,1257 @@
+body {
+	font: 14px/1.5 "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+	width: 100%;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+body,
+html {
+	width: 100%;
+	color: #fff;
+}
+
+.banner-box {
+	color: #fff;
+	width: 100%;
+	background-color: #f06c68;
+	background: url(http://static.wangxiao.cn/zhuanti/new/sg/img/top.png) no-repeat center;
+}
+
+.banner-title1 {
+	font-size: 28px;
+}
+
+.banner-title2 {
+	font-size: 70px;
+}
+
+.banner-title2 .color-or {
+	font-size: 90px;
+}
+
+.banner-box .zt-box {
+	padding: 0;
+}
+
+.banner-btn {
+	padding: 2px 10px;
+	border-radius: 10px;
+	font-size: 14px;
+	color: #fff;
+	border: 1px solid #fff;
+}
+
+.ul-bottom li.color-or,
+.ul-top li.color-or {
+	color: #fd6500;
+	width: 100%;
+	font-size: 14px;
+}
+
+.ul-top li {
+	width: 50%;
+}
+
+.ul-top {
+	border-bottom: 1px dashed #6b6b6b;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.banner-rt {
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 15%;
+	padding: 20px 15px;
+}
+
+.banner-fl {
+	width: 85%;
+	padding: 50px 0;
+}
+
+.ul-top li,
+.ul-bottom li {
+	color: #b9b7b7;
+	font-size: 12px;
+	line-height: 2;
+}
+
+.all-width {
+	width: 100%;
+}
+
+.mod-title {
+	font-size: 34px;
+}
+
+.bgc-f7 {
+	background-color: #f7f7f7;
+}
+
+.col-red {
+	color: #f04b45;
+}
+
+.color-grey6 {
+	color: #666;
+}
+
+.font-si18 {
+	font-size: 16px;
+	padding: 10px 0;
+}
+
+.teacher-desc-list {
+	padding: 12px;
+	width: 25%;
+}
+
+.teacher-desc-list img {
+	width: 90%;
+}
+
+.price {
+	color: #f04b45;
+	font-size: 20px;
+	display: inline-block;
+	padding: 20px 0;
+}
+
+.font-small {
+	color: #666;
+	font-size: 12px;
+}
+
+.width50 {
+	width: 50%;
+}
+
+
+/*.teacher-detail{background-color:#3388e2;border-radius: 15px;padding:5px 10px;}
+.teacher-name{color:#093969;font-weight:600; font-size: 18px;position: absolute;top:-20px;background-color: #f7f7f7;padding:0 5px;left:20px;}
+.teacher-desc{margin-top: 30px;}*/
+
+.book-title {
+	width: 200px;
+}
+
+.book-btn {
+	display: inline-block;
+	color: #fff;
+	font-size: 12px;
+	border-radius: 3px;
+}
+
+.now-buy {
+	border-bottom: 2px solid #dd4f00;
+	background-color: #fd6500;
+	padding: 5px 15px;
+	margin-right: 10px;
+}
+
+.know-other {
+	border-bottom: 2px solid #66c3d8;
+	background-color: #7fd2ef;
+	padding: 5px 8px;
+}
+
+.ma-top {
+	margin-top: 40px;
+}
+
+.book-title .font-si18 {
+	padding: 0;
+}
+
+.pass-box {
+	letter-spacing: 2px;
+	color: #fff;
+	background: url(http://static.wangxiao.cn/zhuanti/new/sg/img/pass.png) no-repeat center;
+	padding: 50px 0;
+}
+
+.color-or {
+	color: #fd6500;
+}
+
+.title1 {
+	font-size: 18px;
+}
+
+.title2 {
+	font-size: 30px;
+	letter-spacing: 3px;
+	line-height: 1.2;
+}
+
+.title2 .color-or {
+	font-size: 65px;
+}
+
+.title3 {
+	font-size: 60px;
+	line-height: 1.2;
+}
+
+.title3 .color-or {
+	font-size: 80px;
+}
+
+.circle-list {
+	font-size: 20px;
+	width: 120px;
+	height: 120px;
+	line-height: 120px;
+	border-radius: 50%;
+	border: 1px solid #fff;
+	color: #fff;
+	margin: 60px 65px 0 65px;
+}
+
+.course-box {
+	margin-top: 25px;
+}
+
+.taocan-list-box {
+	width: 20%;
+	margin-right: 6.6%;
+}
+
+.taocan-list-box:last-child {
+	margin-right: 0;
+}
+
+.taocan-title {
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	font-size: 18px;
+	color: #666;
+	background-color: #ededed;
+}
+
+.taocan-desc {
+	border: 1px solid #ededed;
+	padding: 0 10px;
+}
+
+.taocan-stu {
+	line-height: 3;
+	color: #666;
+	font-size: 16px;
+}
+
+.taocan-c9 {
+	color: #999;
+	padding-left: 18px;
+}
+.taocan-c9 li{
+	list-style-type: disc;
+}
+.taocan-desc {
+	min-height: 280px;
+	position: relative;
+}
+
+.twaocan-btn {
+	font-size: 18px;
+	color: #666;
+	background-color: #ededed;
+	border-bottom: 2px solid #dbdbdb;
+	display: inline-block;
+	padding: 3px 0;
+	width: 100%;
+	width: 92%;
+	position: absolute;
+	bottom: 9px;
+	left: 4%;
+}
+
+.taocan-list-box:hover .taocan-title {
+	color: #red;
+}
+
+.taocan-list-box.addhover .taocan-title {
+	background-color: #7fd2ef;
+	color: #fff;
+}
+
+.taocan-list-box.addhover .taocan-c9 {
+	color: #7fd2ef;
+}
+
+.taocan-list-box.addhover .twaocan-btn {
+	background-color: #7fd2ef;
+	color: #fff;
+	border-bottom-color: #66c3d8;
+}
+
+.taocan-list-box.addhover .taocan-stu {
+	color: #7fd2ef;
+}
+
+.taocan-list-box.addhover .taocan-desc {
+	border-color: #7fd2ef;
+}
+
+.newstu-know-list {
+	background-size: 55%;
+	background: url(http://static.wangxiao.cn/zhuanti/new/sg/img/bg1.png) no-repeat center;
+	padding: 79px 35px;
+}
+
+.newstu-know-list.addhver{
+	background-image: url(http://static.wangxiao.cn/zhuanti/new/sg/img/bg2.png);
+}
+
+.newstu-know-list.addhover .newstu-title {
+	color: #fd6500;
+}
+
+.newstu-know-list.addhover .newstu-btn {
+	background-position: -243px -17px;
+}
+
+.newstu-know-list.addhover .taocan-c9 {
+	color: #ff7733;
+}
+
+.newstu-title {
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.newstu-know-list ul {
+	margin-top: 10px;
+}
+
+.newstu-btn {
+	background: url(http://static.wangxiao.cn/zhuanti/new/sg/img/ico-30.png) no-repeat -26px -17px;
+	display: inline-block;
+	/* padding: 23px; */
+	width: 142px;
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	margin-top: 40px;
+}
+
+.newstu-know-list {
+	width: 25%;
+}
+
+.newstu-know-list:last-child {
+	margin-right: 0;
+}
+
+.newstu-know {
+	margin-top: 30px;
+}
+
+.col-yel {
+	color: #ffff00;
+}
+
+.stu-prov .mod-title {
+	color: #fff;
+}
+
+.bm-btn {
+	margin-top: 30px;
+}
+
+.bm-btn-list {
+	color: #fff;
+	border: 1px solid #fff;
+	padding: 3px 0px;
+	border-radius: 15px;
+	display: inline-block;
+	margin: 5px 1px;
+	width: 7.5%;
+	text-align: center;
+}
+
+.bm-btn-list:hover {
+	color: #b17f11;
+	background-color: #ffff00;
+	border-collapse: #ffff00;
+}
+
+.q-list-box {
+	width: 33.3%;
+}
+
+.last-list-box img {
+	margin-left: 15px;
+}
+
+.video-box {
+	background: url(http://static.wangxiao.cn/zhuanti/new/sg/img/bg.png) no-repeat center;
+	padding: 86px 20px;
+	padding-bottom: 64px;
+}
+
+.video-lf {
+	width: 78%;
+	height: 200px;
+}
+
+.video-rt {
+	width: 22%;
+	background-color: rgba(31, 31, 31, 0.8);
+	margin-top: 24px;
+}
+
+
+/*.video-box{padding: 5px 10px;}*/
+
+.video-list-box,.video-list {
+	display: inline-block;
+	width: 100%;
+	cursor: pointer;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative;
+	color: #fff;
+	line-height: 2;
+	border-bottom: 1px dashed #6b6b6b;
+}
+
+.video-list-box:after {
+	content: '';
+	position: absolute;
+	background-image: url(http://static.wangxiao.cn/zhuanti/new/sg/img/ico-30.png);
+	background-repeat: no-repeat;
+	background-position: -120px -73px;;
+	height: 30px;
+	width: 34px;
+	position: absolute;
+	right: 0;
+}
+.video-list{padding-left: 20px;font-size: 12px;border: 0;}
+.video-list a{color: #fff;}
+
+.video-list:before{
+	content: '';
+	position: absolute;
+	background-image: url(http://static.wangxiao.cn/zhuanti/new/sg/img/play2.png);
+	background-repeat: no-repeat;
+	background-size: 79%;
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
+.video-list.add-click:before{
+	background-image: url(http://static.wangxiao.cn/zhuanti/new/sg/img/play1.png);
+	
+}
+.video-rt-box li ul{display: none;}
+.video-list-box.add-click:after {
+	background-position: -21px -73px;
+}
+
+.more {
+	color: #14ebfd;
+	display: inline-block;
+	padding: 7px;
+}
+
+.yj-bm {
+	background-color: #14ebfd;
+	color: #00515e;
+	padding: 10px 0;
+}
+
+.video-rt-box {
+	min-height: 265px;
+	padding: 5px 10px 0 10px;
+}
+
+.online__video {
+	height: 348px;
+	margin-top: 24px;
+}
+
+
+/*表格*/
+
+
+/*首页主体表格内容*/
+
+table.combo_table td,
+.combo_table th {
+	padding: 10px 0;
+	background-color: #fff
+}
+
+table.combo_table td {
+	padding: 5px 0
+}
+
+table.combo_table td.subject,
+table.combo_table td.td_title {
+	text-align: left;
+	padding-left: 1em
+}
+
+table.combo_table td input {
+	margin: 0 0 0 10px
+}
+
+table#tbCourseList tfoot td {
+	background-color: #FEFAED;
+	text-align: left;
+	border: 1px solid #dfdfdf;
+	padding: 0
+}
+
+table#tbCourseList .youhui {
+	float: left;
+	line-height: 1.7;
+	font-size: 12px;
+	padding: 10px;
+}
+
+table.combo_table .youhui h4 {
+	font-size: 12px;
+	color: #F60;
+	margin: 0;
+	text-align: left
+}
+
+.submit_box {
+	float: right;
+	width: 110px;
+	overflow: hidden
+}
+
+.submit_box input.submit_indexbtn {
+	border: none;
+	width: 104px;
+	height: 28px;
+	background: url(http://img.wangxiao.cn/images/class_btn.gif) no-repeat;
+	cursor: pointer;
+	text-indent: -1000px;
+	overflow: hidden;
+	*text-indent: 0px;
+	*line-height: 100px
+}
+
+table.courser {
+	margin: 5px 0 0 5px
+}
+
+.partTwo .tabCon table {
+	background-color: #dfdfdf
+}
+
+.partTwo .tabCon th,
+.partTwo .tabCon td {
+	background-color: #fff
+}
+
+.partTwo .tabCon td {
+	padding: 4px 0
+}
+
+.partTwo .titBarLine h2 {
+	background-image: none;
+	padding-left: 0px
+}
+.ztk.zt-box{
+	width: 1020px;
+	padding-bottom: 0;
+}
+
+
+/**/
+
+.combo_table .youhui {
+	text-align: left;
+	line-height: 24px;
+	padding-left: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+/*2015首页通栏课程列表*/
+
+table.combo_table th {
+	border: 1px solid #fff!important;
+	padding: 5px 0;
+}
+
+table.combo_table {
+	background-color: #ccc;
+	text-align: center;
+}
+table.combo_table td {
+	padding: 5px 0;
+}
+
+table.combo_table td.subject,
+table.combo_table td.td_title {
+	padding-left: 1em;
+	text-align: left;
+}
+
+table.combo_table td input {
+	margin: 0 5px 0 10px;
+}
+
+table#tbCourseList tfoot td {
+	background-color: #fefaed;
+	border: 1px solid #dfdfdf;
+	padding: 0;
+	text-align: left;
+}
+
+.bookBar .bookList {
+	margin-left: 10px;
+	padding-top: 20px;
+}
+
+table.combo_table .youhui h4 {
+	color: #f60;
+	font-size: 12px;
+	margin: 0;
+	text-align: left;
+}
+
+
+/*修改*/
+
+table#tbCourseList .youhui {
+	border-right: 0;
+	float: left;
+	font-size: 12px;
+	line-height: 1.7;
+	padding: 10px;
+	width: 927px;
+}
+
+.course_sale {
+	padding: 20px 0;
+	border-top: 1px dashed #ccc;
+	line-height: 22px;
+}
+.submit_zxbtn {
+	background: #fe8d0d;
+	width: 140px;
+	height: 32px;
+	text-align: center;
+	color: #FFF;
+	border: 0;
+	float: left;
+	margin-left: 270px;
+	display: inline;
+}
+
+.submit_zxbtn a {
+	color: #FFF;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 32px;
+	text-decoration: none;
+}
+
+.AccMenuItem {
+	position: relative;
+	cursor: pointer;
+	background: url(http://img.wangxiao.cn/images/course_xx.jpg) 81px center no-repeat;
+}
+
+.AccMenuItem .acc02 {
+	position: absolute;
+	display: none;
+	width: 220px;
+	padding: 20px 8px;
+	border: solid 1px #ff5101;
+	background: #fcfcfc;
+	color: #000;
+	z-index: 99999;
+	line-height: 20px;
+	left: -44px;
+	top: 26px;
+}
+
+.AccMenuItem .acc02 p {
+	font-size: 12px;
+}
+
+.AccMenuItem .acc02 img {
+	position: absolute;
+	display: block;
+	top: -10px;
+	left: 87px;
+	_left: 80px;
+}
+
+.AccMenuItem .active_cat {
+	z-index: 99999;
+}
+
+.AccMenuItem .active_cat div {
+	display: block;
+}
+
+.submit_box {
+	float: inherit;
+	overflow: inherit;
+	width: auto
+}
+
+.titBarLine h2 {
+	background: none;
+}
+
+.teacher {
+	margin: 0px auto;
+	width: 960px;
+}
+
+.teacherList2 {
+	float: left;
+	overflow: hidden;
+	padding-left: 5px;
+	margin-left: 10px;
+}
+
+.bookBar .bookList li {
+	padding-left: 20px;
+}
+
+.teacher .teacherList2 ul {
+	margin: 0px auto;
+	width: 960px;
+	height: 91px;
+	overflow: hidden;
+}
+
+.teacher .teacherList2 li {
+	float: left;
+	display: block;
+	width: 275px;
+	height: 90px;
+	margin-bottom: 10px;
+	border-bottom: #666 1px dashed;
+}
+
+.bookBar {
+	height: 180px;
+}
+
+body {
+	font-family: "微软雅黑";
+	color: #666;
+}
+
+i {
+	font-style: normal;
+	
+	/*color: #999;*/
+}
+
+.classTit {
+	background: url(http://img.wangxiao.cn/bjupload/2016-11-11/f90d2cfa-771f-4592-a183-debfd3fd98df.jpg);
+	height: 54px;
+}
+
+.erj-title {
+	font-size: 22px;
+	padding: 10px;
+	background-color: #f2f2f2;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 2px solid #a1a1a1;
+	text-align: center;
+}
+
+.bm-list {
+	width: 20%;
+	float: left;
+}
+
+.bm-box {
+	border-left: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+}
+
+.bm-list-one {
+	text-align: center;
+	border: 1px solid #f17e1f;
+}
+
+.bm-list-one a {
+	color: #f17e1f;
+	display: block;
+	padding: 12px;
+}
+
+.bm-list-one a:hover {
+	color: #fff;
+	background-color: #f17e1f;
+	text-decoration: none;
+}
+
+.bm-list-two {
+	padding: 6px;
+	color: #fff;
+	text-align: center;
+	border-radius: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.list-one {
+	background-color: #009900;
+}
+
+.list-two {
+	background-color: #f22533;
+}
+
+.list-three {
+	background-color: #17b8e8;
+}
+
+.list-four {
+	background-color: #f17e1f;
+}
+
+.list-text {
+	margin: 7px 0;
+}
+
+.font-red {
+	color: #ff0000;
+}
+table.combo_table td{
+	border: 1px solid #7fd2ef!important;
+}
+
+table.combo_table td input {
+	margin: 0 5px 0 10px;
+}
+
+.submit_indexbtn1 {
+	background: #fd6500;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	width: 140px;
+	height: 32px;
+	color: #FFF;
+	margin-left: 20px;
+	border: 0;
+	padding-right: 5px;
+}
+
+.submit_box {
+	width: 295px!important;
+	margin: 0 auto!important;
+	float: none;
+}
+
+.table-tad-time {
+	color: #cc0000;
+}
+
+.table-tad-left,
+.table-tad-center,
+.table-tad-right {
+	float: left;
+	text-align: left;
+}
+
+.tad-center-list {
+	padding-top: 10px;
+	padding-left: 20px;
+	text-align: left;
+	display: none;
+}
+
+.table-tad-right {
+	padding-top: 10px;
+}
+
+.table-tad-left {
+	width: 20%;
+}
+
+.table-tad-center {
+	width: 40%;
+}
+
+.table-tad-right {
+	width: 40%;
+}
+
+.tad-left-list {
+	padding: 22px;
+	border: 1px solid #ccc;
+	text-align: center;
+	margin: 0;
+	cursor: pointer;
+}
+
+
+/*.tad-left-list-active {      border: 1px solid #cc0000;      color: #cc0000;    }*/
+
+.title-color {
+	color: #17b8e8;
+	text-align: left;
+	margin-bottom: 0;
+}
+
+.course-list {
+	width: 25%;
+	float: left;
+}
+
+.course-list-title {
+	background-image: url(http://img.wangxiao.cn//images/jz2//u10.png);
+	width: 100%;
+	height: 43px;
+	line-height: 46px;
+	text-align: center;
+	background-size: 100% 100%;
+	font-size: 20px;
+	background-repeat: no-repeat;
+}
+
+.course-list-right {
+	float: right;
+}
+
+.combo_table {
+	position: relative;
+}
+
+.hover-title {
+	position: absolute;
+	background-color: #fff;
+	border: 1px solid red;
+	display: none;
+	top: 59px;
+	padding: 0 10px;
+}
+
+.title-color-content {
+	text-align: left;
+	padding-left: 15px;
+	margin: 5px 0;
+	color: #333;
+}
+
+.circle-right {
+	width: 68px;
+	height: 68px;
+	border-radius: 34px;
+	top: -29px;
+	right: -23px;
+	background-color:#fd6500;
+	font-size: 10px;
+	text-align: left;
+	position: absolute;
+	color: #fff;
+	padding-left: 7px;
+}
+
+.hover-show {
+	position: relative;
+	overflow: hidden;
+}
+
+.outer-box {
+	width: 97%;
+	border: 1px solid #ccc;
+	border-top: 0;
+}
+
+.outer-box p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.outer-list-title {
+	border-top: 7px solid #17b8e8;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+.daoxue {
+	text-align: center;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 6px;
+	margin: 0;
+}
+
+.daoxue b {
+	color: #17b8e8;
+	font-size: 16px;
+}
+
+table img {
+	width: 38%;
+}
+
+table.combo_table td.subject,
+table.combo_table td.td_title {
+	padding-left: 0.5rem!important;
+}
+
+.outer-list-button {
+	margin-bottom: 0;
+}
+
+.button {
+	margin-top: 0;
+}
+
+.button a {
+	display: block;
+	width: 60%;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	border-radius: 20px;
+	padding: 3px;
+}
+
+.button a:hover {
+	text-decoration: none;
+	background-color: #17b8e8;
+	color: #fff;
+}
+
+.base-course .button a:hover {
+	background-color: #F17E1F;
+}
+
+.goto-exam .button a:hover {
+	background-color: #009900;
+}
+
+.strong-course .button a:hover {
+	background-color: #f22533;
+	;
+}
+
+.goto-exam .daoxue b {
+	color: #009900;
+}
+
+.strong-course .daoxue b {
+	color: #f22533;
+}
+
+.base-course .outer-list-title {
+	border-top-color: #F17E1F;
+}
+
+.goto-exam .outer-list-title {
+	border-top-color: #009900
+}
+
+.strong-course .outer-list-title {
+	border-top-color: #f22533;
+}
+
+.outer-list-button,
+.button {
+	text-align: center;
+}
+
+.line {
+	text-decoration: line-through;
+}
+
+.red {
+	color: #ff0000;
+}
+
+.price {
+	font-size: 30px;
+}
+
+.base-course b {
+	color: #f17e1f;
+}
+
+.base-course .course-list-title {
+	background-image: url(http://img.wangxiao.cn//images/jz2//u12.png);
+}
+
+.goto-exam .course-list-title {
+	background-image: url(http://img.wangxiao.cn//images/jz2//u8.png);
+}
+
+.strong-course .course-list-title {
+	background-image: url(http://img.wangxiao.cn//images/jz2//u12.png);
+}
+
+.click-box {
+	position: fixed;
+	width: 780px;
+	top: 20%;
+	left: 15%;
+	padding: 20px;
+	background-color: #fff;
+	border-radius: 8px;
+	display: none;
+}
+
+table.combo_table th,
+.tablet-color td {
+	background-color: #7fd2ef!important;
+	color: #fff;
+}
+.form-box .combo_table  .tablet-color td{border-color: #fff!important;}
+table.combo_table th a {
+	color: #!important;
+}
+
+.close-click-box {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	border-radius: 10px;
+	background-color: #f2f2f2;
+	float: right;
+	text-align: center;
+	margin-left: 5px;
+	margin-top: -5px;
+}
+
+.close-click-box:hover {
+	background-color: #f17e1f;
+	color: #fff;
+}
+
+.click-outer-box {
+	position: fixed;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #000;
+	opacity: 0.2;
+	display: none;
+}
+
+.click-showtable,
+.close-click-box {
+	cursor: pointer;
+}
+
+.red-box-left,
+.red-box-right {
+	width: 1px;
+	height: 289px;
+	position: relative;
+	top: -370px;
+	float: left;
+}
+
+.red-box-left {
+	border-left: 1px solid red;
+	left: 299px;
+}
+
+.red-box-right {
+	border-left: 1px solid red;
+	left: 433px;
+}
+
+.red-box-top,
+.red-box-bottom {
+	width: 156px;
+	height: 1px;
+	position: relative;
+	top: -370px;
+	float: left;
+	left: 286px;
+}
+
+.red-box-top {
+	border-top: 1px solid red;
+}
+
+.red-box-bottom {
+	border-bottom: 1px solid red;
+	left: 144px;
+	top: -83px;
+}
+
+.circle-right1 {
+	width: 68px;
+	height: 68px;
+	border-radius: 34px;
+	top: -29px;
+	right: -23px;
+	background-color: red;
+	font-size: 10px;
+	text-align: left;
+	position: absolute;
+	color: #fff;
+}
+
+.combo_table1 {
+	position: relative;
+}
+
+.submit_box1 {
+	width: 295px!important;
+	margin: 0 auto!important;
+	float: none;
+}
+.td_title a{color: #333!important;}
+.ztk-list-box{width:140px;margin-left: 20px; }
+.ztk-list{
+	border: 1px dashed #fff;
+	padding: 20px;
+	margin-bottom: 40px;
+	cursor: pointer;
+	text-align: center;
+	color: #fff;
+	border-radius: 8PX;
+	font-size: 20px;
+}
+.ztk-list.add-click{
+	color: #5792f4;
+	background-color: #fff;
+}
+.ztk-box{
+	background: url("http://static.wangxiao.cn/zhuanti/new/sg/img/11.png") no-repeat center ;
+	padding: 100px 0;
+}
+.stu-mess-box{
+	background-color: rgba(0,0,0,0.8);
+	
+}
+.stu-mess{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 10px 0 10px 30px;
+	background-color: rgba(0,0,0,0.8);
+	z-index: 100;
+}
+.stu-mess .zt-box{padding: 0;}
+
+.stu-mess form td{color: #5792f4;font-size: 18px;}
+.stu-mess form tr{display: inline-block!important;margin-right: 30px;}
+.stu-mess form tr:last-child{margin-right: 10px;}
+.Mybtn{background-color: #5792f4;margin-left: 80px;border-radius: 5px;padding: 3px 15px;}
+button{background-color: #5792f4;border: 0;color: #fff;padding: 3px 15px;font-size: 18px;}
+.stu-mess input{height: 25px;}
+.stu-mess-title{font-size: 18px;color: #fff;font-weight: 600;padding-bottom:10px;}
+
