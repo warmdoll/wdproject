@@ -5,10 +5,12 @@ i{font-style: normal;}
 a{text-decoration:none}
 a:hover{text-decoration:underline}
 img {border: 0; vertical-align:middle;} 
+img {border: 0; vertical-align:middle;} 
 input:focus,textarea:focus{outline:none}
 div,li,span{box-sizing: border-box;-moz-box-sizing:border-box; /* Firefox */-webkit-box-sizing:border-box; /* Safari */}
 ul,li{list-style-type:none;}
 .fl{float: left;}
+
 .rt{float: right;}
 .tc{text-align: center;}
 /*父级清楚浮动*/
@@ -38,8 +40,10 @@ body .footer {
 }
 .footer a:hover {
   text-decoration: underline;
+  
   color: #7fd2ef;
 }
 /*登陆弹出修改*/
 .zc_warn1{width: 313px!important;}
 .zc_warn{width:340px!important ;}
+
